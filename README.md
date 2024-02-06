@@ -11,7 +11,6 @@ For Windows systems: File name - "winvalorant.pt"
 
 For usage:<br>
 Find trained models inside "Models" folder.<br>
-Check "commands.txt" for additional commands.<br>
 Find data on results inside "Results_Data" folder.
 
 ***NOTE*** : Use only for Educational Purposes, This project does not encourage any unethical uses. 
